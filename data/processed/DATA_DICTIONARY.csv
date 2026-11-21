@@ -1,0 +1,20 @@
+field,description,provenance
+segment_id,Synthetic row identifier,synthetic
+area,Delhi locality label; sampled,synthetic
+latitude,Approximate jittered coordinate near locality centroid; not road-snapped,synthetic
+longitude,Approximate jittered coordinate near locality centroid; not road-snapped,synthetic
+road_type,Synthetic road hierarchy category,synthetic
+segment_length_m,Synthetic segment length in metres,synthetic
+lighting_score_synthetic,Synthetic illumination proxy 0-100; not measured lux,synthetic
+police_distance_m_synthetic,Synthetic distance proxy; not measured from a real police POI,synthetic
+metro_distance_m_synthetic,Synthetic distance proxy; not measured from a real metro station,synthetic
+hospital_distance_m_synthetic,Synthetic distance proxy; not measured from a real hospital,synthetic
+road_width_m_synthetic,Synthetic width estimate; not surveyed,synthetic
+is_isolated_synthetic,Synthetic isolation indicator,synthetic
+is_night,Sampled night indicator,synthetic
+community_hazard_reports_90d_synthetic,Synthetic report count,synthetic
+traffic_activity_score_synthetic,Synthetic activity proxy,synthetic
+pedestrian_activity_score_synthetic,Synthetic pedestrian activity proxy,synthetic
+emergency_facility_access_proxy_synthetic,Synthetic binary proxy,synthetic
+synthetic_safety_score,Heuristic-generated synthetic score 0-100,synthetic
+synthetic_risk_level,Heuristic-generated Low/Moderate/High class,synthetic

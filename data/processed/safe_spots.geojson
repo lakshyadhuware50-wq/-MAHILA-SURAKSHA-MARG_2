@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2167, 28.6315] },
+      "properties": { "osm_id": 101, "category": "police", "name": "Connaught Place Police Station", "lat": 28.6315, "lon": 77.2167 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2120, 28.6235] },
+      "properties": { "osm_id": 102, "category": "police", "name": "Parliament Street Police Station", "lat": 28.6235, "lon": 77.2120 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2400, 28.5700] },
+      "properties": { "osm_id": 103, "category": "police", "name": "Lajpat Nagar Police Division", "lat": 28.5700, "lon": 77.2400 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2510, 28.5480] },
+      "properties": { "osm_id": 104, "category": "police", "name": "Kalkaji / Nehru Place Police Station", "lat": 28.5480, "lon": 77.2510 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2100, 28.5200] },
+      "properties": { "osm_id": 105, "category": "police", "name": "Saket Police Station (South District)", "lat": 28.5200, "lon": 77.2100 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2100, 28.5672] },
+      "properties": { "osm_id": 201, "category": "hospital", "name": "AIIMS New Delhi Trauma Center", "lat": 28.5672, "lon": 77.2100 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2078, 28.5705] },
+      "properties": { "osm_id": 202, "category": "hospital", "name": "Safdarjung Emergency Hospital", "lat": 28.5705, "lon": 77.2078 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2130, 28.5270] },
+      "properties": { "osm_id": 203, "category": "hospital", "name": "Max Super Speciality Hospital Saket", "lat": 28.5270, "lon": 77.2130 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2420, 28.5680] },
+      "properties": { "osm_id": 204, "category": "hospital", "name": "Moolchand Medcity 24/7", "lat": 28.5680, "lon": 77.2420 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2195, 28.6328] },
+      "properties": { "osm_id": 301, "category": "metro", "name": "Rajiv Chowk Metro Station (CISF Security)", "lat": 28.6328, "lon": 77.2195 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2375, 28.5708] },
+      "properties": { "osm_id": 302, "category": "metro", "name": "Lajpat Nagar Interchange Metro", "lat": 28.5708, "lon": 77.2375 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2518, 28.5515] },
+      "properties": { "osm_id": 303, "category": "metro", "name": "Nehru Place Metro Station", "lat": 28.5515, "lon": 77.2518 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2066, 28.5245] },
+      "properties": { "osm_id": 304, "category": "metro", "name": "Saket Metro Station (Yellow Line)", "lat": 28.5245, "lon": 77.2066 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2175, 28.6330] },
+      "properties": { "osm_id": 401, "category": "pharmacy", "name": "Apollo Pharmacy 24/7 Connaught Place", "lat": 28.6330, "lon": 77.2175 }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2085, 28.5255] },
+      "properties": { "osm_id": 402, "category": "pharmacy", "name": "Guardian Pharmacy Saket", "lat": 28.5255, "lon": 77.2085 }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Trained models are saved here by scripts/05_train_risk_model.py
+(for example risk_model.joblib). Model files are ignored by git.

@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.954,
+  "precision": 0.9385,
+  "recall": 0.9691,
+  "f1": 0.9535,
+  "roc_auc": 0.9914,
+  "test_samples": 1261,
+  "feature_importances": {
+    "dist_to_police_m": 0.1779,
+    "near_isolated_lane": 0.1487,
+    "near_low_lighting": 0.146,
+    "dist_to_metro_m": 0.1339,
+    "day_of_week": 0.1145,
+    "hour_of_day": 0.0971,
+    "road_type_footway": 0.0583,
+    "road_type_service": 0.0542,
+    "dist_to_hospital_m": 0.0281,
+    "road_type_residential": 0.0223,
+    "road_type_secondary": 0.0103,
+    "road_type_primary": 0.0087
+  }
+}

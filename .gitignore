@@ -1,0 +1,40 @@
+# ---------- secrets ----------
+.env
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# ---------- data (large / raw / private) ----------
+data/raw/*
+!data/raw/.gitkeep
+data/external/*
+!data/external/.gitkeep
+*.db
+*.db-journal
+
+# Keep processed assets in Git so Streamlit Cloud deploys instantly:
+# delhi_pilot.graphml (~28MB) is well within GitHub's 100MB limit.
+!data/processed/delhi_pilot.graphml
+!data/processed/osm_features.geojson
+!data/processed/safe_spots.geojson
+!data/processed/synthetic_incidents.csv
+!models/risk_model.joblib
+!models/risk_model_metrics.json
+
+# ---------- Android build caches ----------
+android_app/.gradle/
+android_app/.idea/
+android_app/build/
+android_app/app/build/
+android_app/local.properties
+
+# ---------- OS / editor ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

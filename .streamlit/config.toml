@@ -1,0 +1,20 @@
+# Streamlit theme + server settings.
+# Docs: https://docs.streamlit.io/develop/api-reference/configuration/config.toml
+
+[theme]
+base = "dark"
+primaryColor = "#BB86FC"              # Electric lavender / purple for women's safety in dark mode
+backgroundColor = "#0E1117"           # Deep modern dark canvas
+secondaryBackgroundColor = "#1A1C24"  # Sleek card/sidebar dark container
+textColor = "#F0F2F6"                 # High-contrast crisp white/silver text
+font = "sans serif"
+
+[server]
+headless = false
+# Raise this if you upload a very large graph and hit the size limit.
+maxUploadSize = 200
+# Serve the static/ folder so manifest.json and icons are reachable
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false

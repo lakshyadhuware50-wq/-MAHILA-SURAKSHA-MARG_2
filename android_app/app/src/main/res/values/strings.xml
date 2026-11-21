@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mahila Suraksha Marg</string>
+    <!-- Default URL points to current LAN IP:port or Cloud deployment -->
+    <string name="mahila_suraksha_marg">http://10.206.24.45:8501</string>
+</resources>

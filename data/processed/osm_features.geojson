@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2167, 28.6315] },
+      "properties": { "osm_id": 501, "category": "road", "lit": "yes", "highway": "primary", "name": "Connaught Circus" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2400, 28.5700] },
+      "properties": { "osm_id": 502, "category": "road", "lit": "yes", "highway": "primary", "name": "Ring Road Lajpat Nagar" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2510, 28.5480] },
+      "properties": { "osm_id": 503, "category": "road", "lit": "yes", "highway": "primary", "name": "Outer Ring Road Nehru Place" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [77.2100, 28.5200] },
+      "properties": { "osm_id": 504, "category": "road", "lit": "yes", "highway": "primary", "name": "Press Enclave Marg Saket" }
+    }
+  ]
+}
